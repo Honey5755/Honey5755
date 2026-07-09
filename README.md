@@ -1,7 +1,7 @@
 <!-- ══════════════════════════════ HERO ══════════════════════════════ -->
 <div align="center">
 
-<img src="Assets/output.gif" alt="Anutosh Mishra — animated hero banner" width="360" />
+<img src="Assets/hero.png" alt="Anutosh Mishra — hero banner" width="420" />
 
 # Anutosh Mishra
 
