@@ -76,20 +76,18 @@ I ship real apps end-to-end — from React Native front-ends to serverless backe
 </p>
 
 <!-- ══════════════════════════════ STATS ══════════════════════════════ -->
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Honey5755&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honey5755&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+<img src="https://komarev.com/ghpvc/?username=Honey5755&style=for-the-badge&color=6f42c1&label=PROFILE+VIEWS" />
+&nbsp;
+<a href="https://github.com/Honey5755?tab=followers"><img src="https://img.shields.io/github/followers/Honey5755?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=1f6feb&labelColor=181717" /></a>
 
-<br/>
+<br/><br/>
 
-<img height="165" src="https://streak-stats.demolab.com/?user=Honey5755&hide_border=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Honey5755&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+<!-- Streak card (demolab host — reliable) -->
+<img height="180" src="https://streak-stats.demolab.com/?user=Honey5755&hide_border=true&theme=tokyonight" />
 
 </div>
 
