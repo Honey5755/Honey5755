@@ -80,12 +80,12 @@ I ship real apps end-to-end — from React Native front-ends to serverless backe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Honey5755&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honey5755&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Honey5755&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honey5755&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" />
 
 <br/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Honey5755&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Honey5755&hide_border=true&theme=tokyonight" />
 
 <br/>
 
