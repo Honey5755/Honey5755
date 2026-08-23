@@ -7,7 +7,7 @@
 
 ### Full-Stack & Mobile Developer · Building AI-Powered Products
 
-I ship real apps end-to-end — from React Native front-ends to serverless backends and RAG-based AI features. Currently sharpening MERN + System Design, and looking for my first full-time SWE role.
+I ship real apps end-to-end — from React Native front-ends to serverless backends and RAG-based AI features. Currently sharpening MERN + System Design, and looking for my next full-time SWE role.
 
 <br/>
 
